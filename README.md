@@ -11,5 +11,7 @@ This project demonstrates the basics of MLflow tracking 📝 by training a simpl
 This project helps you get hands-on with MLflow, a powerful tool for experiment tracking, model versioning, and deployment. By the end, you'll understand how to:
 
 🔹 Track experiments effortlessly 🏷️
+
 🔹 Compare multiple model runs 📊
+
 🔹 Store and retrieve trained models 🎯
