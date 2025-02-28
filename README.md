@@ -2,7 +2,9 @@
 This project demonstrates the basics of MLflow tracking 📝 by training a simple Linear Regression model 📈 and logging key details such as:
 
 ✅ Model Parameters (like weights & biases)
+
 📊 Performance Metrics (Mean Squared Error - MSE)
+
 📁 Saved Model Artifacts for future use
 
 ## 🔥 Why this project?
