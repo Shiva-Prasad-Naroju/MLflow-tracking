@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Downloads/GitHub/MLflow-tracking/mlruns/163899072202526272/2448bebc291c475bb786a12d59927283/artifacts
+end_time: 1740771087552
+entry_point_name: ''
+experiment_id: '163899072202526272'
+lifecycle_stage: active
+run_id: 2448bebc291c475bb786a12d59927283
+run_name: thundering-swan-83
+run_uuid: 2448bebc291c475bb786a12d59927283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740771075557
+status: 3
+tags: []
+user_id: DELL
